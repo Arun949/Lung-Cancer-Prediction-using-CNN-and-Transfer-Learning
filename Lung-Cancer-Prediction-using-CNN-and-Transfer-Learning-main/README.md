@@ -78,29 +78,6 @@ pip install pandas numpy seaborn matplotlib scikit-learn tensorflow keras
 
 ## Project Structure
 
-```
-.
-├── Lung_Cancer_Prediction.ipynb
-├── README.md
-├── dataset
-│ ├── train
-│ │ ├── adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
-│ │ ├── large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
-│ │ ├── normal
-│ │ └── squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
-│ ├── test
-│ │ ├── adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
-│ │ ├── large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
-│ │ ├── normal
-│ │ └── squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
-│ └── valid
-│ ├── adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
-│ ├── large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
-│ ├── normal
-│ └── squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
-└── best_model.hdf5
-```
-
 This structure outlines the files and directories included in your project:
 
 - **Lung_Cancer_Prediction.ipynb**: Jupyter Notebook containing the code for training and evaluating the lung cancer prediction model.
@@ -257,11 +234,6 @@ We acknowledge and thank the contributors to the [Chest CT Scan Images Dataset](
 
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use, modify, or distribute this code for educational and non-commercial purposes. Refer to the LICENSE file for more details.
 
 
 
