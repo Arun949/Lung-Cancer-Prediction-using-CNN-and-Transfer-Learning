@@ -1,2 +1,0 @@
-# Lung-Cancer-Prediction-using-CNN-and-Transfer-Learning
-Lung Cancer Prediction using CNN and Transfer Learning
